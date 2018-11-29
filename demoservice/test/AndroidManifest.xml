@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.von.demoservicetest"
+    android:sharedUserId="android.uid.system">
+
+    <application android:label="@string/app_label">
+        <activity android:name=".DemoServiceTestActivity"
+                android:label="@string/app_label"
+                android:theme="@android:style/Theme.DeviceDefault">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+         </activity>
+    </application>
+</manifest>

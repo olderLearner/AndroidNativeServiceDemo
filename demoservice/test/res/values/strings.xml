@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">UsbCheckerTest</string>
+    <string name="register">register</string>
+    <string name="send">Send CMD:20, SUBCMD:18</string>
+</resources>
+
