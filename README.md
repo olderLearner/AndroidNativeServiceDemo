@@ -11,3 +11,4 @@ Note:
 +   class main
 +   user system
 +   group system
+4. demoserver started in init phase, test app register a callback from java side and send a message by send func, server send callback data to client once receive the message from client.
